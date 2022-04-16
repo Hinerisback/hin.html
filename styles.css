@@ -1,0 +1,56 @@
+body {
+	background-image : url('aaa.jpg');
+	background-repeat : no-repeat;
+	 background-attachment: fixed;
+}
+h1 {
+  color: red;
+}
+h2{
+	color : purple;
+	font-family : Algerian;
+	font-size : 40px ;
+	padding :50px ;
+	margin : 30px
+}
+p {
+  color: green;
+}
+table {
+  border:5px double black;
+  border-collapse: collapse;
+  font-size : 30px;
+}
+th, td {
+	border : 1px solid black;
+	padding-top : 12 px;
+	padding-bottom : 12px;
+	padding-left : 13px;
+	padding-right : 13px;
+}
+th {
+	background-color : khaki;
+}
+td {
+	background-color : light blue;
+}
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+li {
+	font-size : 30px ;
+	color : grad;
+}
+.city {
+  background-color: tomato;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+.city1 {
+  border : 1px solid black;
+  background-color: tomato;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
